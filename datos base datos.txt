@@ -1,0 +1,8 @@
+INSERT INTO `paginacion`.`pais` (`id`, `capital`, `nombre`)
+VALUES
+(1, 'España', 'Madrid'),
+(2, 'Francia', 'Paris'),
+(3, 'Alemania', 'Berlin'),
+(4, 'Inglaterra', 'Londres'),
+(5, 'Portugal', 'Lisboa'),
+(6, 'Italia', 'Roma');
